@@ -1,7 +1,12 @@
 # 뉴스 뷰어 UI 만들기
 - 책 [리액트를 다루는 기술] 14장 학습중
 
-  ![image](https://user-images.githubusercontent.com/86909942/178262477-ff315a55-f9ab-4cdf-9c3e-24ad8b20440c.png)
+|날짜|내용|설명|
+|------|---|---|
+|2022-07-11|![image](https://user-images.githubusercontent.com/86909942/178262477-ff315a55-f9ab-4cdf-9c3e-24ad8b20440c.png)|NewsList컴포넌트에 데이터 불러오기 전 sampleArticle 예시 테이터 보이게 하기|
+|2022-07-12|![image](https://user-images.githubusercontent.com/86909942/178440486-d7f97543-7d2e-4564-8315-673dbd5f891f.png)|NewsList에 API 호출하기|
+|2022-07-12|테스트2|테스트3|
+
 
 ## Available Scripts
 
