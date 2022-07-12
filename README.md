@@ -5,7 +5,7 @@
 |------|---|---|
 |2022-07-11|![image](https://user-images.githubusercontent.com/86909942/178262477-ff315a55-f9ab-4cdf-9c3e-24ad8b20440c.png)|NewsList컴포넌트에 데이터 불러오기 전 sampleArticle 예시 테이터 보이게 하기|
 |2022-07-12|![image](https://user-images.githubusercontent.com/86909942/178440486-d7f97543-7d2e-4564-8315-673dbd5f891f.png)|NewsList에 API 호출하기|
-|2022-07-12|테스트2|테스트3|
+|2022-07-12|![20220712_165901](https://user-images.githubusercontent.com/86909942/178462519-478bf352-508c-4fbe-9d26-68851fa09e7f.png)|카테고리 컴포넌트 추가, API 호출할때 카테고리 지정하여 API 요청하기|
 
 
 ## Available Scripts
